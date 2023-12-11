@@ -1,0 +1,227 @@
+body{
+    width: 473px;
+    height: 196px;
+    flex-shrink: 0;
+    fill: #F00;
+filter: drop-shadow(10px 20px 100px rgba(0, 0, 0, 0.50));
+}
+body{
+    background-color: rgb(0, 183, 255);
+}
+
+nav li{
+    color: #ff0000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+a{
+    color: #d900ff;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h1{
+    width: 480px;
+height: 50px;
+flex-shrink: 0;
+}
+h2{
+    width: 400px;
+height: 50px;
+flex-shrink: 10;
+}
+
+header{
+    display: flex;
+   justify-content: space-between;
+   padding: 10px 50px;
+
+ 
+
+
+}
+
+.logo img{
+    height: 120px;
+    position: relative;
+    left: 100px;
+}
+
+.menu a{
+    color: #000000;
+    list-style-type: none;
+    margin-left: 25px;
+    text-decoration: none;
+}
+
+.mainpage{
+    display: flex;
+}
+
+
+.menu{
+    list-style-type: none;
+    margin-left: 600px;
+    display: flex;
+    gap: 25px;
+
+}
+
+.menu li{
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.image-section{
+    width: 50%;
+    position: relative;
+    bottom: 100px;
+}
+
+.suurtext{
+    color: #000;
+font-family: Inria Sans;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+left: 100px;
+}
+.kesktext{
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 10px;
+position: relative;
+left: 100px;
+}
+.vaiketext{
+    color: #000;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 10px;
+position: relative;
+left: 100px;
+}
+
+.orderbutton{
+    background-color: #F00;
+    color: aliceblue;
+    border: 1px;
+    padding: 30px;
+    text-align: left;
+    text-decoration:none;
+    font-size:20px;
+    cursor:pointer;
+    width: 473px;
+height: 196px;
+flex-shrink: 0;
+filter: drop-shadow(10px 20px 100px rgba(0, 0, 0, 0.50));
+width: 316px;
+height: 140.944px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.button-section{
+position: relative;
+right: 200px;
+top: 500px;
+
+
+}
+.mainpage{
+    position: relative;
+    z-index: 1;
+}
+
+.seconddiv{
+    
+}
+
+.img2{
+position: relative;
+left: 1000px;
+bottom: 100px;
+}
+
+.image-section3{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 100px;
+    width: 1166px;
+    height: 252px;
+    flex-shrink: 0;
+    
+}
+.img3{
+    width: 25%;
+    box-sizing: border-box;
+    
+}
+
+.suurtext3{
+    position: relative;
+    left: 400px;
+    width: 1166px;
+    height: 252px;
+    flex-shrink: 0;
+    color: #000000;
+font-family: Inter;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.image-section4{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    right: 300px;
+    width: 1166px;
+    height: 252px;
+    flex-shrink: 0;
+}
+
+.img4{
+    width: 25%;
+    box-sizing: border-box;
+}
+
+.suurtext4{
+    position: relative;
+    left: 400px;
+    width: 1166px;
+    height: 252px;
+    flex-shrink: 0;
+font-family: Inter;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
